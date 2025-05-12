@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "3c5c594a11cd8306",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cedb508a1bd86b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d801ecb2a931c664",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/app.json",
+                "bFile": ".obsidian/app.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: app.json"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e91544872a4c600",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a61695160bdfdf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77d265a86681e8b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3ff0f5844cbfdf93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Четыре стадии развертки мира",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0ffbf3cec3263c0b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "right": {
+    "id": "a47f20c5ab609fb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "786cd1da7ed76338",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bfbcba1befd3716",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "194bb6fe1f46b6b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c20e95db308b144e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ec454edf6cae4532",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4f7c5a87ee224830",
+            "type": "leaf",
+            "state": {
+              "type": "broken-links-view",
+              "state": {},
+              "icon": "unlink",
+              "title": "Broken links"
+            }
+          },
+          {
+            "id": "c8d3943726486481",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "broken-links:View broken links": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d801ecb2a931c664",
+  "lastOpenFiles": [
+    "videos/Видео монахов/Раманатха Гири/2025/О типах концентрации внимания.md",
+    "pages/традиция/сиддхи/рамалинга Cвамигал.md",
+    "videos/Сатсанги 2025/Удовольствия на пути освобождения.md",
+    "videos/Сатсанги 2024/Четыре стадии развертки мира.md",
+    "videos/Распознать сущность Бога.md",
+    "videos/2025",
+    "videos/Без названия.md",
+    "videos/Сатсанг Управление реальностью сознанием.md",
+    "videos/Сатсанг Принятие великого решения.md",
+    "videos/Сатсанг около ступы в Боднатхе в Катманду.md",
+    "videos/Видео монахов/Раманатха Гири/2025/Этапы пробуждения кундалини.md",
+    "videos/Видео монахов/Раманатха Гири/2025",
+    "videos/Видео монахов/Раманатха Гири/Untitled.md",
+    "pages/термины/пурна.md",
+    "pages/санатана дхарма/законы и силы вселенной/карма/карма-бандха.md",
+    "media/IMG_9672.jpg",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/дхарма адвайты и ашрам.md",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/польза и вред технологий.md",
+    "markdown.md",
+    "media/IMG_20210410_105522.jpg",
+    "courses.md",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/тонкий мир.md",
+    "videos/Сатсанги 2025/Шесть ограничений сознания.md",
+    "videos/Сатсанги 2025/Происхождение души.md",
+    "videos/Сатсанги 2025/Шесть ограничений сознания (conflicted copy 2025-05-06 154550).md",
+    "Настройка obsidian.md",
+    "джняна-шакти.md",
+    "Без названия.canvas",
+    "2025-01-04.md",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/статья удобство или целесообразность, идти к своей цели.md",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506203601.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506200843.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506200014.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506195918.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506195829.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506195508.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506195343.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/media/Pasted image 20250506195241.png",
+    "pages/библиотека/из сатсангов свами вишнудевананды гири/свобода садху метод и мудрость.md",
+    "events/media",
+    "pages/традиция/media",
+    "pages/библиотека/из сатсангов свами вишнудевананда гири/media",
+    "pages/библиотека/из сатсангов свами вишнудевананда гири",
+    "pages/библиотека",
+    "pages/санатана дхарма/панча-нитья-карма/упасана/ритуалы",
+    "вайшнавизм",
+    "pages/санатана дхарма/божества и демоны/божества/махавидьи",
+    "Без названия 1.canvas",
+    "Без названия 2.canvas",
+    "docs/Без названия.canvas",
+    "docs/Без названия 2.canvas",
+    "docs/Без названия 1.canvas"
+  ]
+}
