@@ -2,7 +2,7 @@
 layout: uikit-single
 title: Badge
 slug: badges
-draft: false
+draft: true
 publishDate: 2024-10-10
 tags:
   - ui-kit

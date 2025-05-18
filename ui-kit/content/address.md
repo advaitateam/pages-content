@@ -2,7 +2,7 @@
 layout: uikit-single
 title: Address
 slug: address
-draft: false
+draft: true
 publishDate: 2024-10-10
 tags:
   - ui-kit

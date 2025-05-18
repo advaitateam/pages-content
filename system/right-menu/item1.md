@@ -1,7 +1,7 @@
 ---
 draft: true
 text: Видеогалерея
-href: /video/
+href: /videos/
 
 topic: right-menu
 render: true

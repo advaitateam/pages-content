@@ -2,7 +2,7 @@
 layout: uikit-single
 title: Cards
 slug: cards
-draft: false
+draft: true
 publishDate: 2024-10-10
 is_main: true
 tags:

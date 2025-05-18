@@ -2,7 +2,7 @@
 layout: uikit-single
 title: Image
 slug: card-image
-draft: false
+draft: true
 publishDate: 2024-10-10
 tags:
   - ui-kit
