@@ -5,7 +5,7 @@ publishDate: 01-01-2025
 description: ""
 tags:
 image:
-draft: false
+draft: true
 ---
 
 ![Gayatri](/upload/iblock/9e5/pteyuc7qas4ttuotx7xxlvpvnpfe7eua.jpg "Gayatri") 

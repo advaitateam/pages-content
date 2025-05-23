@@ -5,7 +5,7 @@ publishDate: 01-01-2025
 description: ""
 tags:
 image:
-draft: false
+draft: true
 ---
 
 ![Parvati](/upload/iblock/21b/u0ivq1c7zmu1mhqkhctwjc8d60bs1k8t.jpg "Parvati") 
